@@ -1,5 +1,5 @@
 def main():
-    print("Hello from exlsplore-uv!")
+    print("Hello from explore-uv!")
 
 
 if __name__ == "__main__":
